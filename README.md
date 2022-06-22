@@ -9,9 +9,7 @@ The rounds are :
 
 0- Qualification Round
 
-1- Round 1 :  Round 1A
-              Round 1B
-              Round 1C
+1- Round 1 :  Round 1A   -   Round 1B   -   Round 1C
               
 2- Round 2
 
