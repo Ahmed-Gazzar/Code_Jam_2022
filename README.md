@@ -5,13 +5,19 @@ I participated in code jam 2022, passed the qualification round, but did not pas
 
 Here is my solution to some problems either in the rounds i participated in or not
 
-The rounds are :
+## The rounds are :
 
-0- Qualification Round
+### 0- Qualification Round
 
-1- Round 1 :  Round 1A   -   Round 1B   -   Round 1C
+### 1- Round 1 :  
+
+Round 1A
+
+Round 1B
+
+Round 1C
               
-2- Round 2
+### 2- Round 2
 
-3- Round 3 (Finals)
+### 3- Round 3 (Finals)
 
