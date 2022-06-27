@@ -20,23 +20,32 @@ However, if Wile manually triggers module 3 first, modules 3 and 1 will get trig
 Given the fun factors and the setup of the modules, compute the maximum fun Wile can get if he triggers the initiators in the best possible order.
 
 Input
+
 The first line of the input gives the number of test cases, T. T test cases follow, each described using 3 lines. Each test case starts with a line with a single integer N, the number of modules Wile has. The second line contains N integers F1,F2,…,FN where Fi is the fun factor of the i-th module. The third line contains N integers P1,P2,…PN. If Pi=0, that means module i points at the abyss. Otherwise, module i points at module Pi.
 
 Output
+
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the maximum fun Wile can have by manually triggering the initiators in the best possible order.
 
 Limits
+
 Memory limit: 1 GB.
 1≤T≤100.
 1≤Fi≤109.
 0≤Pi≤i−1, for all i.
+
 Test Set 1 (Visible Verdict)
+
 Time limit: 5 seconds.
 1≤N≤10.
+
 Test Set 2 (Visible Verdict)
+
 Time limit: 5 seconds.
 1≤N≤1000.
+
 Test Set 3 (Hidden Verdict)
+
 Time limit: 10 seconds.
 1≤N≤100000.
 
