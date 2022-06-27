@@ -30,23 +30,29 @@ For each test case, output one line containing Case #x: y, where x is the test c
 ## Limits
 
 Memory limit: 1 GB.
+
 1≤T≤100.
+
 1≤Fi≤109.
+
 0≤Pi≤i−1, for all i.
 
 ### Test Set 1 (Visible Verdict)
 
 Time limit: 5 seconds.
+
 1≤N≤10.
 
 ### Test Set 2 (Visible Verdict)
 
 Time limit: 5 seconds.
+
 1≤N≤1000.
 
 ### Test Set 3 (Hidden Verdict)
 
 Time limit: 10 seconds.
+
 1≤N≤100000.
 
 ![z](https://user-images.githubusercontent.com/85165808/175975715-6606271b-546f-4641-8bda-59d65f7943cb.png)
