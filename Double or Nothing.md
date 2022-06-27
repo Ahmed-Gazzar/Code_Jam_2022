@@ -28,6 +28,14 @@ Memory limit: 1 GB.
 
 1≤T≤100.
 
+![image](https://user-images.githubusercontent.com/85165808/175988284-c1e6c906-188d-4730-bd1a-e8652b156f62.png)
+
+In Sample Case #1, these are all the strings that can be obtained, in alphabetical order: PEEEEL, PEEEELL, PEEEL, PEEELL, PEEL, PEELL, PPEEEEL, PPEEEELL, PPEEEL, PPEEELL, PPEEL, and PPEELL.
+
+In Sample Case #2, every string that can be obtained contains only As. The shortest of those is alphabetically first, because it is a prefix of all others.
+
+In Sample Case #3, there are 1024 possible strings which can be generated from CODEJAMDAY out of which CCODDEEJAAMDAAY is the lexicographically smallest one.
+
 Each character of S is an uppercase letter from the English alphabet.
 
 ### Test Set 1 (Visible Verdict)
