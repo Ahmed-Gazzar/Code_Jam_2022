@@ -11,11 +11,11 @@ Here is my solution to some problems either in the rounds i participated in or n
 
 ### 1- Round 1 :  
 
-Round 1A
+ - Round 1A
 
-Round 1B
+ - Round 1B
 
-Round 1C
+ - Round 1C
               
 ### 2- Round 2
 
