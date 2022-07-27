@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// function to calculate the min of a vector
 int min(vector<int> s) {
     int res = s[0];
     for (int i = 0; i < s.size(); i++)
@@ -22,7 +23,7 @@ int main() {
     int C, M, Y, K;
     for (int i = 1; i <= t; i++)
     {
-        vector<int> c, m, y, kk;
+        vector<int> c, m, y, kk;        // to store the c,m,y,k values of the three printers for each test case
 
         int k = 0;
         cin >> k;
@@ -53,7 +54,7 @@ int main() {
         kk.push_back(k);
 
 
-
+        // calc the min of each value 
         C = min(c);
         M = min(m);
         Y = min(y);
